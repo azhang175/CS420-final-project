@@ -1,0 +1,9 @@
+treasure money = 10000
+
+challenge (money >= 500){
+    display ("You have bought an armour.")
+    display ("'Thank you! Come again!' says the salesmen")
+}
+defaultQuest{
+    display ("Not enough money")
+}

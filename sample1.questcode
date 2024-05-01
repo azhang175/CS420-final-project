@@ -1,0 +1,4 @@
+treasure gold = 100
+message text = "Hello Adventurer"
+display (text)
+display (gold)
